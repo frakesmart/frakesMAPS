@@ -6,7 +6,6 @@ ipython==7.34.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.2
 json5==0.9.10
-jupyter-events==0.6.3
 jupyter-lsp==2.2.0
 jupyter-server==1.24.0
 jupyter_client==7.4.1
