@@ -1,5 +1,3 @@
-aiofiles @ file:///croot/aiofiles_1683773582346/work
-aiosqlite @ file:///croot/aiosqlite_1683773899903/work
 anyio==3.6.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
@@ -7,27 +5,19 @@ arrow==1.2.3
 asgiref==3.6.0
 asttokens==2.0.8
 async-lru==2.0.2
-attrs @ file:///croot/attrs_1668696182826/work
 Babel==2.11.0
 backcall==0.2.0
-beautifulsoup4 @ file:///croot/beautifulsoup4-split_1681493039619/work
 bleach==5.0.1
-bokeh @ file:///croot/bokeh_1684534016720/work
-Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
 bqplot==0.11.0
 brotlipy==0.7.0
-carto==1.11.3
-certifi @ file:///croot/certifi_1690232220950/work/certifi
+carto==1.11.3i
 cffi==1.15.1
 charset-normalizer==3.1.0
 cmake==3.26.4
-comm @ file:///croot/comm_1671231121260/work
 commentjson==0.9.0
 contourpy==1.0.6
-cryptography @ file:///croot/cryptography_1689373676338/work
 cycler==0.11.0
 debugpy==1.6.3
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml==0.7.1
 dill==0.3.6
 docopt==0.6.2
@@ -39,7 +29,6 @@ ffmpeg-python==0.2.0
 fonttools==4.38.0
 fqdn==1.5.1
 future==0.18.2
-idna @ file:///croot/idna_1666125576474/work
 imageio==2.26.0
 ipydatetime==1.2.0
 ipykernel==6.4.2
@@ -48,20 +37,14 @@ ipython-genutils==0.2.0
 ipywidgets==7.7.2
 isoduration==20.11.0
 jedi==0.18.1
-Jinja2 @ file:///croot/jinja2_1666908132255/work
 json5==0.9.10
 jsonpointer==2.3
 jsonschema==4.17.3
 jupyter-events==0.6.3
 jupyter-lsp==2.2.0
 jupyter-server==1.24.0
-jupyter-ydoc @ file:///croot/jupyter_ydoc_1683747223142/work
 jupyter_client==7.4.1
-jupyter_core @ file:///croot/jupyter_core_1679906564508/work
-jupyter_server_fileid @ file:///croot/jupyter_server_fileid_1684273577568/work
 jupyter_server_terminals==0.4.4
-jupyter_server_ydoc @ file:///croot/jupyter_server_ydoc_1686767404829/work
-jupyterlab @ file:///croot/jupyterlab_1686179668131/work
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.1
 jupyterlab_server==2.23.0
@@ -69,34 +52,21 @@ KiKit==1.3.0
 kiwisolver==1.4.4
 lark-parser==0.7.8
 lazy_loader==0.1
-linkify-it-py @ file:///opt/conda/conda-bld/linkify-it-py_1659783361596/work
 lit==16.0.6
-lxml @ file:///opt/conda/conda-bld/lxml_1657545139709/work
-Markdown @ file:///croot/markdown_1671541909495/work
-markdown-it-py @ file:///croot/markdown-it-py_1684279902645/work
 markdown2==2.4.9
-MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
-mdit-py-plugins @ file:///opt/conda/conda-bld/mdit-py-plugins_1659721247557/work
-mdurl @ file:///opt/conda/conda-bld/mdurl_1659716024347/work
-mistune @ file:///home/builder/ci_310/mistune_1640791641754/work
 mkl-fft==1.3.6
-mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
 mkl-service==2.4.0
 munkres==1.1.4
 nbclassic==0.4.8
 nbclient==0.7.2
-nbconvert @ file:///croot/nbconvert_1668450669124/work
-nbformat @ file:///croot/nbformat_1670352325207/work
 nbinteract==0.2.6
 nest-asyncio==1.5.6
 networkx==3.0
 notebook==6.5.2
 notebook_shim==0.2.2
 ntlm-auth==1.5.0
-numexpr @ file:///croot/numexpr_1683221822650/work
-numpy @ file:///croot/numpy_and_numpy_base_1687466208449/work
 nvidia-cublas-cu11==11.10.3.66
 nvidia-cuda-cupti-cu11==11.7.101
 nvidia-cuda-nvrtc-cu11==11.7.99
@@ -111,16 +81,12 @@ nvidia-nvtx-cu11==11.7.91
 openai-whisper==20230314
 opencv-python-headless==4.7.0.72
 overrides==7.3.1
-packaging @ file:///croot/packaging_1678965309396/work
 pandas==1.5.2
 pandocfilters==1.5.0
-panel @ file:///croot/panel_1690398478432/work
-param @ file:///croot/param_1684915322283/work
 parsimonious==0.10.0
 parso==0.8.3
 pbr==5.11.1
 pcbnewTransition==0.3.4
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare==0.7.5
 Pillow==10.0.0
 planetary-system-stacker==0.9.5.2
@@ -130,26 +96,18 @@ ply==3.11
 prettytable==0.7.2
 prometheus-client==0.15.0
 prompt-toolkit==3.0.31
-psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval==0.2.2
 pybars3==0.9.7
 pycparser==2.21
-Pygments @ file:///croot/pygments_1684279966437/work
 PyMeta3==0.5.1
-pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
-pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
 pypng==0.0.19
 PyQt5-sip==12.11.0
 pyrestcli==0.6.11
 pyrsistent==0.19.2
-PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2022.6
-pyviz-comms @ file:///croot/pyviz_comms_1685030693726/work
 PyWavelets==1.4.1
-PyYAML @ file:///croot/pyyaml_1670514731622/work
 pyzmq==24.0.1
 qiskit==0.43.2
 qiskit-aer==0.12.1
@@ -166,11 +124,8 @@ seaborn==0.12.1
 Send2Trash==1.8.0
 shapely==2.0.1
 simphony==0.6.1
-sip @ file:///tmp/abs_44cd77b_pu/croots/recipe/sip_1659012365470/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio==1.3.0
 solidpython==1.1.3
-soupsieve @ file:///croot/soupsieve_1680518478486/work
 sqlparse==0.4.4
 stack-data==0.5.1
 stevedore==5.1.0
@@ -181,7 +136,6 @@ testpath==0.6.0
 tifffile==2023.2.28
 tiktoken==0.3.1
 tinycss2==1.2.1
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomli==2.0.1
 toolz==0.12.0
 torch==2.0.1
@@ -191,9 +145,7 @@ traitlets==5.9.0
 traittypes==0.2.1
 triton==2.0.0
 typing_extensions==4.6.3
-uc-micro-py @ file:///opt/conda/conda-bld/uc-micro-py_1659769408368/work
 uri-template==1.2.0
-urllib3 @ file:///croot/urllib3_1686163155763/work
 voila==0.4.0
 wcwidth==0.2.5
 webcolors==1.13
@@ -201,6 +153,3 @@ webencodings==0.5.1
 websocket-client==1.6.1
 websockets==10.4
 widgetsnbextension==3.6.1
-xyzservices @ file:///croot/xyzservices_1675159059961/work
-y-py @ file:///croot/y-py_1683555143488/work
-ypy-websocket @ file:///croot/ypy-websocket_1684171737040/work
