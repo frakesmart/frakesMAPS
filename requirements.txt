@@ -18,6 +18,7 @@ matplotlib-inline
 nbclient
 nbinteract
 pandas
+panel
 Pillow
 plotly
 python-dateutil
