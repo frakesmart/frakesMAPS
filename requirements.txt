@@ -13,4 +13,4 @@ jupyter_core
 jupyterlab
 notebook
 nbinteract
-voila==0.5.5
+voila
